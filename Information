@@ -1,0 +1,61 @@
+<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geo's Contact Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #002F6C; /* Navy blue background */
+            color: #ffffff; /* White text */
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #003D7A; /* Slightly darker blue for header */
+            padding: 20px;
+            border-bottom: 5px solid #001A33; /* Darker blue border */
+        }
+        .container {
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 0;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+        a {
+            color: #FFD700; /* Gold color for links */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #003D7A;
+            border-top: 5px solid #001A33;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Contact Information</h1>
+    </header>
+    <div class="container">
+        <p><strong>Email:</strong> <a href="mailto:georgelegendyt25@gmail.com">georgelegendyt25@gmail.com</a></p>
+        <p><strong>Discord:</strong> geobetter</p>
+        <p><strong>Roblox Username:</strong> GeorgeLegend_Yt</p>
+        <p><strong>Roblox Profile:</strong> <a href="https://www.roblox.com/users/1926601213/profile" target="_blank">Visit my profile</a></p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Geo. All rights reserved.</p>
+    </footer>
+</body>
+</html>
